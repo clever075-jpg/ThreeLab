@@ -1,0 +1,9 @@
+Motorcycle
+Yamaha
+3
+model1
+500.0
+model2
+500.0
+model3
+500.0
